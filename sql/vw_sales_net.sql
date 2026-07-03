@@ -2,18 +2,24 @@
 ======================================================================
 SCRIPT - Create Analytics Views 
 ======================================================================
-Project     : NAVA Data Warehouse
+Project     : NAVA Sales Performance
 Script      : NAVA_analytics.vw_sales_net.sql
 
 Description :
 
-Creates analytics-ready view in the NAVA_analytics database.
+Creates the business-ready analytical view used by the Sales Performance
+dashboard.
 
-The analytics layer combines cleaned data into business-oriented views
-designed for reporting and dashboarding.
+The view consolidates cleaned sales, product and returns data into a single
+dataset designed for commercial performance analysis.
 
-This view provide the curated datasets used by the Sales Performance,
-dashboards.
+It provides standardized business metrics used to monitor:
+
+• Revenue Growth
+• Profitability
+• Product Performance
+• Country Performance
+• Return Analysis
 
 WARNING:
 
