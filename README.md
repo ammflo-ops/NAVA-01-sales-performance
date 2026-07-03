@@ -18,7 +18,7 @@ Monitor commercial performance and evaluate whether revenue growth is translatin
 The dashboard combines operational KPIs with visual analytics to assess commercial performance from multiple perspectives.
 
 <p align="center">
-  <img src="assets/sales_dashboard.png" width="900">
+  <img src="dashboard/sales_performance_dashboard.png" width="900">
 </p>
 
 ### Key Performance Indicators
