@@ -3,7 +3,7 @@
 SCRIPT - Create Analytics Views 
 ======================================================================
 Project     : NAVA Data Warehouse
-Script      : NAVA_analytics.v_sales_net.sql
+Script      : NAVA_analytics.vw_sales_net.sql
 
 Description :
 
@@ -21,7 +21,7 @@ Existing analytics views will be dropped and recreated.
 ======================================================================
 */
 
-CREATE OR REPLACE VIEW NAVA_analytics.v_sales_net AS
+CREATE OR REPLACE VIEW NAVA_analytics.vw_sales_net AS
   
 SELECT
   s.order_id,
