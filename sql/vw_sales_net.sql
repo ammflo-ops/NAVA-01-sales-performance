@@ -21,9 +21,12 @@ It provides standardized business metrics used to monitor:
 • Country Performance
 • Return Analysis
 
-WARNING:
+NOTES :
 
-Existing analytics views will be dropped and recreated.
+This view is part of the shared SQL architecture powering the
+NAVA Business Intelligence Portfolio.
+
+Existing view will be dropped and recreated before execution.
 ======================================================================
 */
 
