@@ -9,11 +9,11 @@ Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Tec
 
 # 📖 Overview
 
-## 🎯 Business Objective
+## Business Objective
 
 Monitor commercial performance and evaluate whether revenue growth is translating into sustainable profitability across products, countries and business operations.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard combines operational KPIs with visual analytics to assess commercial performance from multiple perspectives.
 
