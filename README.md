@@ -54,29 +54,17 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 
 ---
 
-# 🛠️ Technical Implementation
-
-**SQL View**
-
-- `vw_sales_net`
-
-**Built With**
-
-- MySQL
-- Tableau
-
-The dashboard is powered by the shared SQL architecture available in **00_Technical_Foundation**.
-
----
-
-# 📂 Project Structure
+# 📂 Repository Structure
 
 ```text
 01_Sales_Performance
 │
 ├── dashboard/
-│   ├── sales_performance.twbx
-│   └── sales_dashboard.png
+│   ├── sales_performance.twbx          # Tableau workbook
+│   └── sales_dashboard.png             # Dashboard preview
 │
-├── README.md
+├── sql/
+│   └── vw_sales_net.sql                # Business-ready analytical view
+│
+└── README.md                           # Project overview
 ```
