@@ -39,7 +39,7 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 # 📖 Summary of Insights
 
 - **Revenue Momentum** : Spain is the main driver of business growth, while France continues to provide a stable revenue foundation.
-- **Profitability Under Pressure** : Revenue growth has not fully translated into higher profitability. Margin optimization remains a key business priority. Return rates continue to pressure overall margins.
+- **Profitability Under Pressure** : Revenue growth has not fully translated into higher profitability. Return rates continue to pressure overall margins.
 - **Category Performance** : Top-performing product categories continue to generate the greatest business value. Expanding these segments offers the strongest growth opportunity.
 
 ---
