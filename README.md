@@ -7,38 +7,40 @@ Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Tec
 
 ---
 
-# 🎯 Business Objective
+# 📖 Overview
 
-Assess whether business growth is sustainable by monitoring sales, profitability and operational performance.
+## 🎯 Business Objective
 
----
+Monitor commercial performance and evaluate whether revenue growth is translating into sustainable profitability across products, countries and business operations.
 
-# 📊 Dashboard Overview
+## 📊 Dashboard Overview
+
+The dashboard combines operational KPIs with visual analytics to assess commercial performance from multiple perspectives.
 
 <p align="center">
   <img src="assets/sales_dashboard.png" width="900">
 </p>
 
----
-
-# 🔍 Key Performance Indicators
+### Key Performance Indicators
 
 - Net Sales
 - Net Profit
-- Profit Ratio
-- Orders
-- Customers
-- Average Order Value (AOV)
+- Profit Margin
 - Return Rate
 
+### Analytical Focus
+
+- Revenue Growth
+- Profitability Evolution
+- Product Category Performance
+- Product Performance Matrix
 ---
 
-# 💡 Summary of Insights
+# 📖 Summary of Insights
 
-- Spain continues to drive overall business growth.
-- Profitability declined despite higher revenue.
-- High-performing product categories generate the greatest business value.
-- Return rates continue to pressure overall margins.
+- **Revenue Momentum** : Spain is the main driver of business growth, while France continues to provide a stable revenue foundation.
+- **Profitability Under Pressure** : Revenue growth has not fully translated into higher profitability. Margin optimization remains a key business priority. Return rates continue to pressure overall margins.
+- **Category Performance** : Top-performing product categories continue to generate the greatest business value. Expanding these segments offers the strongest growth opportunity.
 
 ---
 
