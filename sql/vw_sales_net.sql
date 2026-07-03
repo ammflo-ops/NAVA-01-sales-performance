@@ -7,12 +7,12 @@ Script      : NAVA_analytics.vw_sales_net.sql
 
 Description :
 
-Creates analytics-ready views in the NAVA_analytics database.
+Creates analytics-ready view in the NAVA_analytics database.
 
 The analytics layer combines cleaned data into business-oriented views
 designed for reporting and dashboarding.
 
-These views provide the curated datasets used by the Sales Performance,
+This view provide the curated datasets used by the Sales Performance,
 dashboards.
 
 WARNING:
