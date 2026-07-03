@@ -72,9 +72,9 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 ---
 # 💡 About
 
-This repository contains the **Sales Performance** analytical module of the NAVA Business Intelligence Portfolio**.
+This repository contains the **Sales Performance** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
 It demonstrates how business-ready SQL views can be transformed into interactive dashboards to monitor commercial performance, evaluate profitability and support strategic decision-making.
 
-For more details about the shared SQL architecture, refer to the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) repository.
+For more details about the shared SQL architecture, refer to the [**00 Technical Foundation**](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md) repository.
 
