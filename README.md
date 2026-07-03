@@ -1,9 +1,9 @@
 # 01 Sales Performance
 > <i>	Revenue Growth & Profitability Analysis</i>
 
-This repository contains the **Sales Performance** project, one of three business-oriented analytical modules within the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
+This repository contains the **Sales Performance** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md), the dashboard evaluates revenue growth, profitability and product performance across France, Spain and Portugal, providing stakeholders with actionable insights to support strategic decision-making.
+Powered by a shared [SQL architecture](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md), it evaluates revenue growth, profitability and product performance across France, Spain and Portugal, providing actionable insights to support strategic business decisions.
 
 ---
 
@@ -15,13 +15,13 @@ Monitor commercial performance and evaluate whether revenue growth is translatin
 
 ## Dashboard Overview
 
-The dashboard combines operational KPIs with visual analytics to assess commercial performance from multiple perspectives.
+The dashboard provides an interactive view of commercial performance through key business KPIs and visual analytics.
 
 <p align="center">
   <img src="dashboard/sales_performance_dashboard.png" width="900">
 </p>
 
-Experience the dashboard with full interactivity on Tableau Public : 
+Explore the interactive dashboard on Tableau Public : 
 [**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_I_SalesPerformance/PerfomanceDB)
 
 ### Key Performance Indicators
@@ -33,6 +33,7 @@ Experience the dashboard with full interactivity on Tableau Public :
 
 ### Analytical Focus
 
+- Country Performance
 - Revenue Growth
 - Profitability Evolution
 - Product Category Performance
@@ -47,11 +48,11 @@ Experience the dashboard with full interactivity on Tableau Public :
 - Revenue growth was primarily driven by the Spanish market.
 - Profitability declined despite strong sales performance.
 - Product categories contributed unevenly to overall business performance.
-- Increasing return rates continued to impact profit margins.
-
+- Return rates continued to pressure profit margins.
+  
 ## Recommendations & Next Steps
 
-- Improve profitability while sustaining revenue growth.
+- Protect profitability while sustaining revenue growth.
 - Reduce return-related costs in underperforming categories.
 - Expand investment in high-performing product categories.
 - Monitor margin performance across all markets.
@@ -80,5 +81,5 @@ This repository contains the **Sales Performance** analytical module of the [**N
 
 It demonstrates how business-ready SQL views can be transformed into interactive dashboards to monitor commercial performance, evaluate profitability and support strategic decision-making.
 
-For more details about the shared SQL architecture, refer to the [**00 Technical Foundation**](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md) repository.
+The dashboard is powered by the shared SQL architecture available in the [**00 Technical Foundation**](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md) repository.
 
