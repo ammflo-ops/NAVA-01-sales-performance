@@ -18,7 +18,7 @@ Monitor commercial performance and evaluate whether revenue growth is translatin
 The dashboard provides an interactive view of commercial performance through key business KPIs and visual analytics.
 
 <p align="center">
-  <img src="dashboard/sales_performance_dashboard.png" width="900">
+  <img src="dashboard/01_sales_performance_dashboard.png" width="900">
 </p>
 
 Explore the interactive dashboard on Tableau Public : 
