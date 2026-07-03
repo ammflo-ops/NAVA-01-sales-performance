@@ -7,24 +7,12 @@ Script      : NAVA_analytics.vw_sales_net.sql
 
 Description :
 
-Creates the business-ready analytical view used by the Sales Performance
-dashboard.
+Creates the business-ready view used by the Sales Performance dashboard.
 
-The view consolidates cleaned sales, product and returns data into a single
-dataset designed for commercial performance analysis.
-
-It provides standardized business metrics used to monitor:
-
-• Revenue Growth
-• Profitability
-• Product Performance
-• Country Performance
-• Return Analysis
-
-NOTES :
-
-This view is part of the shared SQL architecture powering the
+This view is part of the shared SQL architecture of the
 NAVA Business Intelligence Portfolio.
+
+WARNING:
 
 Existing view will be dropped and recreated before execution.
 ======================================================================
