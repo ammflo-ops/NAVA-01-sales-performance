@@ -36,16 +36,16 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 - Product Performance Matrix
 ---
 
-# 📖 Summary of Insights
+# 📖 Revenue Growth & Profitability Analysis
+
+## Summary of Insights
 
 - Revenue growth was primarily driven by the Spanish market.
 - Profitability declined despite strong sales performance.
 - Product categories contributed unevenly to overall business performance.
 - Increasing return rates continued to impact profit margins.
 
----
-
-# 🎯 Recommendations & Next Steps
+## Recommendations & Next Steps
 
 - Improve profitability while sustaining revenue growth.
 - Reduce return-related costs in underperforming categories.
