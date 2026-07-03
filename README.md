@@ -21,6 +21,9 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
   <img src="dashboard/sales_performance_dashboard.png" width="900">
 </p>
 
+Experience the dashboard with full interactivity on Tableau Public : 
+[**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_I_SalesPerformance/PerfomanceDB)
+
 ### Key Performance Indicators
 
 - Net Sales
@@ -34,6 +37,7 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 - Profitability Evolution
 - Product Category Performance
 - Product Performance Matrix
+
 ---
 
 # 📖 Revenue Growth & Profitability Analysis
