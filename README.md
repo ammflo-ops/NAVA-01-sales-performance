@@ -70,7 +70,7 @@ The dashboard combines operational KPIs with visual analytics to assess commerci
 ```
 
 ---
-# 💡 About
+# 💡 About this Project
 
 This repository contains the **Sales Performance** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
